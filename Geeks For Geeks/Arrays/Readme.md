@@ -9,3 +9,4 @@ The Arrays problems are available at https://practice.geeksforgeeks.org/explore/
 <br>[03-play-with-an-array.cpp](https://practice.geeksforgeeks.org/problems/play-with-an-array/1)
 <br>[04-Find duplicates under given constraints.cpp](https://practice.geeksforgeeks.org/problems/find-duplicates-under-given-constraints/0)
 <br>[05-greater-on-right-side.cpp](https://practice.geeksforgeeks.org/problems/greater-on-right-side/0)
+<br>[06-Sum of distinct elements for a limited range.cpp](https://practice.geeksforgeeks.org/problems/sum-of-distinct-elements-1/0)
