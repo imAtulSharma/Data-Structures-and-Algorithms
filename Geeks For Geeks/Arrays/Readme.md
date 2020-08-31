@@ -13,3 +13,4 @@ The Arrays problems are available at https://practice.geeksforgeeks.org/explore/
 <br>[07-Balanced Array.cpp](https://practice.geeksforgeeks.org/problems/balanced-array/0)
 <br>[08-Multiply left and right array sum.cpp](https://practice.geeksforgeeks.org/problems/multiply-left-and-right-array-sum/0)
 <br>[09-Find Number of Numbers.cpp](https://practice.geeksforgeeks.org/problems/find-number-of-numbers/1)
+<br>[10-Pair array product sum.cpp](https://practice.geeksforgeeks.org/problems/pair-array-product-sum/0)
