@@ -11,3 +11,4 @@ The Arrays problems are available at https://practice.geeksforgeeks.org/explore/
 <br>[05-greater-on-right-side.cpp](https://practice.geeksforgeeks.org/problems/greater-on-right-side/0)
 <br>[06-Sum of distinct elements for a limited range.cpp](https://practice.geeksforgeeks.org/problems/sum-of-distinct-elements-1/0)
 <br>[07-Balanced Array.cpp](https://practice.geeksforgeeks.org/problems/balanced-array/0)
+<br>[08-Multiply left and right array sum.cpp](https://practice.geeksforgeeks.org/problems/multiply-left-and-right-array-sum/0)

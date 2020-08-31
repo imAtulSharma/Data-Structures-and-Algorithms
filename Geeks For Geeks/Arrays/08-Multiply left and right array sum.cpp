@@ -1,5 +1,5 @@
-// Given an array of even size, task is to find minimum value that can be added to an element so that array become balanced.
-// An array is balanced if the sum of the left half of the array elements is equal to the sum of right half.
+// Pitsy needs help in the given task by her teacher.
+// The task is to divide a array into two sub array (left and right) containing n/2 elements each and do the sum of the subarrays and then multiply both the subarrays.
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -30,7 +30,7 @@ int main() {
 	        sum2 += arr[i];
 	    }
 	    
-	    cout << abs(sum1 - sum2) << "\n";
+	    cout << sum1 * sum2 << "\n";
 	}
 	return 0;
 }
