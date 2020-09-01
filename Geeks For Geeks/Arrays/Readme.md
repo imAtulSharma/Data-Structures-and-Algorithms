@@ -15,3 +15,5 @@ The Arrays problems are available at https://practice.geeksforgeeks.org/explore/
 <br>[09-Find Number of Numbers.cpp](https://practice.geeksforgeeks.org/problems/find-number-of-numbers/1)
 <br>[10-Pair array product sum.cpp](https://practice.geeksforgeeks.org/problems/pair-array-product-sum/0)
 <br>[11-Cyclically rotate an array by one .cpp](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0)
+<br>[12-Index of first 1 in a sorted array of 0’s and 1’s.cpp](https://practice.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s/0)
+<br>[13-Positive and negative elements.cpp](https://practice.geeksforgeeks.org/problems/positive-and-negative-elements/0)
