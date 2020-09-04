@@ -17,4 +17,5 @@ The Arrays problems are available at https://practice.geeksforgeeks.org/explore/
 <br>[11-Cyclically rotate an array by one .cpp](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0)
 <br>[12-Index of first 1 in a sorted array of 0’s and 1’s.cpp](https://practice.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s/0)
 <br>[13-Positive and negative elements.cpp](https://practice.geeksforgeeks.org/problems/positive-and-negative-elements/0)
-<br>[emmit.txt](https://practice.geeksforgeeks.org/problems/tough-competitors/0)
+<br>[14-Tough Competitors.cpp](https://practice.geeksforgeeks.org/problems/tough-competitors/0)
+<br>[15-Print an array in Pendulum Arrangement.cpp](https://practice.geeksforgeeks.org/problems/print-an-array-in-pendulum-arrangement/0)
