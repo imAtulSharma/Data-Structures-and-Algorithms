@@ -19,3 +19,4 @@ The Arrays problems are available at https://practice.geeksforgeeks.org/explore/
 <br>[13-Positive and negative elements.cpp](https://practice.geeksforgeeks.org/problems/positive-and-negative-elements/0)
 <br>[14-Tough Competitors.cpp](https://practice.geeksforgeeks.org/problems/tough-competitors/0)
 <br>[15-Print an array in Pendulum Arrangement.cpp](https://practice.geeksforgeeks.org/problems/print-an-array-in-pendulum-arrangement/0)
+<br>[16-Last index of One.cpp](https://practice.geeksforgeeks.org/problems/last-index-of-1/0)
