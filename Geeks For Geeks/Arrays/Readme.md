@@ -25,3 +25,4 @@ The Arrays problems are available at https://practice.geeksforgeeks.org/explore/
 <br>[19-Make Co-prime Array.cpp](https://practice.geeksforgeeks.org/problems/make-coprime-array/0)
 <br>[20-First and last occurrences of X.cpp](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0)
 
+<br>[21-Remove duplicate elements from sorted Array.cpp](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1)
