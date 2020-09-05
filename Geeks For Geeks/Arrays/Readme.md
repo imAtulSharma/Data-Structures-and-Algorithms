@@ -22,3 +22,6 @@ The Arrays problems are available at https://practice.geeksforgeeks.org/explore/
 <br>[16-Last index of One.cpp](https://practice.geeksforgeeks.org/problems/last-index-of-1/0)
 <br>[17-Repeated IDs.cpp](https://practice.geeksforgeeks.org/problems/repeated-ids/0)
 <br>[18-Segregate Even and Odd numbers.cpp](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-numbers/0)
+<br>[19-Make Co-prime Array.cpp](https://practice.geeksforgeeks.org/problems/make-coprime-array/0)
+<br>[20-First and last occurrences of X.cpp](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0)
+
