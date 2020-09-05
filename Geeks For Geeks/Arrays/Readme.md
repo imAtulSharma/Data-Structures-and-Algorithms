@@ -21,3 +21,4 @@ The Arrays problems are available at https://practice.geeksforgeeks.org/explore/
 <br>[15-Print an array in Pendulum Arrangement.cpp](https://practice.geeksforgeeks.org/problems/print-an-array-in-pendulum-arrangement/0)
 <br>[16-Last index of One.cpp](https://practice.geeksforgeeks.org/problems/last-index-of-1/0)
 <br>[17-Repeated IDs.cpp](https://practice.geeksforgeeks.org/problems/repeated-ids/0)
+<br>[18-Segregate Even and Odd numbers.cpp](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-numbers/0)
