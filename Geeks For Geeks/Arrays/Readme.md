@@ -26,3 +26,4 @@ The Arrays problems are available at https://practice.geeksforgeeks.org/explore/
 <br>[20-First and last occurrences of X.cpp](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0)
 <br>[21-Remove duplicate elements from sorted Array.cpp](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1)
 <br>[22-Sum of distinct elements.cpp](https://practice.geeksforgeeks.org/problems/sum-of-distinct-elements/0)
+<br>[23Third largest element.cpp](https://practice.geeksforgeeks.org/problems/third-largest-element/1)
