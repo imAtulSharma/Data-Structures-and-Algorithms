@@ -30,3 +30,4 @@ The Arrays problems are available at https://practice.geeksforgeeks.org/explore/
 <br>[24-Product of maximum in first array and minimum in second.cpp](https://practice.geeksforgeeks.org/problems/product-of-maximum-in-first-array-and-minimum-in-second/0)
 <br>[25-Jay's Apples.cpp](https://practice.geeksforgeeks.org/problems/jays-apples/0)
 <br>[26-Sort first half in ascending and second half in descending.cpp](https://practice.geeksforgeeks.org/problems/sort-first-half-in-ascending-and-second-half-in-descending/0)
+<br>[27-Rearrange the array.cpp](https://practice.geeksforgeeks.org/problems/rearrange-the-array/0)
