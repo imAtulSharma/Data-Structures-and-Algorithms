@@ -26,5 +26,7 @@ The Arrays problems are available at https://practice.geeksforgeeks.org/explore/
 <br>[20-First and last occurrences of X.cpp](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0)
 <br>[21-Remove duplicate elements from sorted Array.cpp](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1)
 <br>[22-Sum of distinct elements.cpp](https://practice.geeksforgeeks.org/problems/sum-of-distinct-elements/0)
-<br>[23Third largest element.cpp](https://practice.geeksforgeeks.org/problems/third-largest-element/1)
+<br>[23-Third largest element.cpp](https://practice.geeksforgeeks.org/problems/third-largest-element/1)
 <br>[24-Product of maximum in first array and minimum in second.cpp](https://practice.geeksforgeeks.org/problems/product-of-maximum-in-first-array-and-minimum-in-second/0)
+<br>[25-Jay's Apples.cpp](https://practice.geeksforgeeks.org/problems/jays-apples/0)
+<br>[26-Sort first half in ascending and second half in descending.cpp](https://practice.geeksforgeeks.org/problems/sort-first-half-in-ascending-and-second-half-in-descending/0)
