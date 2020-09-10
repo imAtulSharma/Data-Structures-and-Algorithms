@@ -34,3 +34,4 @@ The Arrays problems are available at https://practice.geeksforgeeks.org/explore/
 <br>[28-Why is Melody so chocolaty.cpp](https://practice.geeksforgeeks.org/problems/why-is-melody-so-chocolaty/0)
 <br>[29-Equalization of an array.cpp](https://practice.geeksforgeeks.org/problems/equalization-of-an-array/0)
 <br>[30-Product of array elements.cpp](https://practice.geeksforgeeks.org/problems/product-of-array-element/1)
+<br>[31-Operating an array.cpp](https://practice.geeksforgeeks.org/problems/operating-an-array/1)
