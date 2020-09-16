@@ -13,3 +13,4 @@ The Arrays problems are available at https://practice.geeksforgeeks.org/explore/
 <br>[07-Print Linked List elements.cpp](https://practice.geeksforgeeks.org/problems/print-linked-list-elements/1)
 <br>[08-Modular Node.cpp](https://practice.geeksforgeeks.org/problems/modular-node/1)
 <br>[09-Find nk th node in Linked list.cpp](https://practice.geeksforgeeks.org/problems/find-nk-th-node-in-linked-list/1)
+<br>[10-Linked List Insertion.cpp](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1)
